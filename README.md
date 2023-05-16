@@ -1,5 +1,5 @@
 # Ejercicios_Node.JS
-Con el auspicio de Formar, el proyecyo(starup) "formar paraincluir, trabajarpara crecer.."
+Con el auspicio de Formar, el proyecyo(startup) "formar paraincluir, trabajarpara crecer.."
 
 ---
 
